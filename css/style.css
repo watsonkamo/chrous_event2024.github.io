@@ -474,6 +474,10 @@ section h2 {
 	}
 }
 
+.transparent-text {
+    color: transparent;
+}
+
 @media only screen and (min-width: 641px) {
 	.col2 li {
 		width: 40%;
